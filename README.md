@@ -9,5 +9,5 @@
 # Competency 3.
 [Link](url)
 
-# E-Module of BLISS
+# Student Support Material of BLISS
 [Link](url)
