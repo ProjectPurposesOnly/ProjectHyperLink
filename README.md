@@ -1,11 +1,13 @@
 ## Welcome to our hyperlinks
 
-``` This is for 1.
+# Competency 1.
 [Link](url)
 
-``` This is for 2.
+# Competency 2.
 [Link](url)
 
-``` This is for 3.
+# Competency 3.
 [Link](url)
 
+# E-Module of BLISS
+[Link](url)
