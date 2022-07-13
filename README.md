@@ -11,7 +11,7 @@
 - Videos [Link](https://drive.google.com/file/d/1zQ7LNK8sgnd-cn6Kf0RCO9HRDj8FUYmn/view?usp=sharing)
 
 # Population Growth and Carrying Capacity
-- Powerpoint[Link](https://docs.google.com/presentation/d/1mB2iO6rjDMj1-tsVUnsM1mb4f2ofyoUl/edit?usp=sharing&ouid=117439853027150255020&rtpof=true&sd=true)
+- Powerpoint[Link](https://drive.google.com/drive/folders/1rY3Z89-lkT7tKU7o5ZHAO7bK9rupk0d-?usp=sharing)
 - PDF [Link](https://github.com/ProjectPurposesOnly/ProjectHyperLink/blob/main/Competency-3.pdf)
 - Videos [Link](https://drive.google.com/file/d/1Yzbt0fdm4REmp97rWI9ybYr1wbI4c7wQ/view?usp=sharing)
 
