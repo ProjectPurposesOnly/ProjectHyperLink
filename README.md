@@ -24,9 +24,9 @@
 
 
 ### Download me first before running any powerpoint on your device 
-- [Competency 1 - ](https://drive.google.com/drive/folders/13jWPUewKPpepZT5DsljLqbseMHOuiSvS?usp=sharing)
-- [Competency 2 - ](https://drive.google.com/drive/folders/11S5fndxB2kevRMdCRjTyHr771eElG15K?usp=sharing)
-- [Competency 3 - ](https://drive.google.com/drive/folders/1pfoi8p3iIlUjVJmLY8Qk4XsxM6Qn9dkZ?usp=sharing)
+- [Competency 1  ](https://drive.google.com/drive/folders/13jWPUewKPpepZT5DsljLqbseMHOuiSvS?usp=sharing)
+- [Competency 2  ](https://drive.google.com/drive/folders/11S5fndxB2kevRMdCRjTyHr771eElG15K?usp=sharing)
+- [Competency 3  ](https://drive.google.com/drive/folders/1pfoi8p3iIlUjVJmLY8Qk4XsxM6Qn9dkZ?usp=sharing)
 
 
 ### The proponents of this study
