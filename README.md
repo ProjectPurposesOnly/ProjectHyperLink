@@ -14,12 +14,12 @@
 
 
 # Population Growth and Carrying Capacity
-- [Powerpoint](https://drive.google.com/drive/folders/1rY3Z89-lkT7tKU7o5ZHAO7bK9rupk0d-?usp=sharing)
+- [Powerpoint](https://docs.google.com/presentation/d/1T990QSdEGhdKmE1hQNgviYlijr2JE-d3/edit?usp=sharing&ouid=117439853027150255020&rtpof=true&sd=true)
 - [PDF](https://github.com/ProjectPurposesOnly/ProjectHyperLink/blob/main/Competency-3.pdf)
 - [Videos](https://drive.google.com/file/d/1Yzbt0fdm4REmp97rWI9ybYr1wbI4c7wQ/view?usp=sharing)
 
 
-# Student Support Material of BLISS - [Link](https://github.com/ProjectPurposesOnly/ProjectHyperLink/blob/main/BLISS.pdf)
+# Student Support Materials - [Link](https://github.com/ProjectPurposesOnly/ProjectHyperLink/blob/main/STUDENT%20SUPPORT%20MATERIALS%20IN%20GRADE%2010%20BIOLOGY.pdf)
 
 
 
