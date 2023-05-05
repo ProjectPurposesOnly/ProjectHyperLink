@@ -16,7 +16,7 @@
 - [Videos](https://drive.google.com/file/d/1Yzbt0fdm4REmp97rWI9ybYr1wbI4c7wQ/view?usp=sharing)
 
 
-# Student Support Materials - [Link](https://github.com/ProjectPurposesOnly/ProjectHyperLink/blob/main/STUDENT%20SUPPORT%20MATERIALS%20IN%20GRADE%2010%20BIOLOGY.pdf)
+# Student Support Materials - [Link](https://github.com/ProjectPurposesOnly/ProjectHyperLink/raw/main/STUDENT%20SUPPORT%20MATERIALS%20IN%20GRADE%2010%20BIOLOGY.pdf)
 
 
 
